@@ -1,0 +1,75 @@
+body {  
+
+    font-family: Arial, sans-serif;  
+
+    padding: 20px;  
+
+    background: #f4f4f4;  
+
+}  
+
+
+h1 {  
+
+
+    color: #1c4c96;  
+
+
+    text-align: center;  
+
+
+    margin: 0 0 20px;  
+
+}  
+
+
+
+ul {  
+
+
+    line-height: 1.8;  
+
+    background: #ffffff;       /* added background color for the list */
+
+
+    border: 1px solid #ddd;    /* added border */
+
+
+    padding: 15px;             /* added padding so items don't touch the border */
+
+
+    border-radius: 6px;        /* rounded corners */
+
+
+    list-style-position: inside;
+
+
+}  
+
+button {  
+
+
+    padding: 10px;  
+
+
+    background: black;  
+
+
+    color: white;  
+
+
+    border-radius: 5px;  
+
+}  
+
+.container {  
+
+
+
+    display: flex;  
+
+
+    gap: 20px;  
+
+
+} 
